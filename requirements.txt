@@ -1,0 +1,8 @@
+#In order to install all dependencies just run the following command:
+#pip3 install -r requirements.txt
+###### Requirements with Version Specifiers ######
+PyQt5==5.15.0
+Pillow==2.2.1
+spectral==0.21
+matplotlib==3.2.2
+opencv-python-headless==4.2.0.34
